@@ -1,3 +1,5 @@
+## In-The-AR: Imagine a world where learning is an adventure for kids using social AR experiences! 📱
+
 ### Inspiration 💡
 <hr>
 We developed this project to build an immersive and fun way of learning new things through making memories in the social AR and retain the memory and learning for a longer period of time through creative ways! 👨🏼‍🎨
